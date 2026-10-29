@@ -51,7 +51,14 @@
 |---|---|---|
 | [**gestor-tareas**](https://github.com/JacobLuna/gestor-tareas) | App de tareas con prioridades, form actions con mejora progresiva y pruebas de validación. | SvelteKit, TypeScript, Prisma, SQLite |
 
-> Mi trabajo profesional (portal web, seguimiento de operaciones y migración de sistemas) está en repositorios privados de la empresa.
+### 🔒 Colaboración en proyectos privados
+
+Trabajo diariamente en repositorios privados de una empresa del sector aduanal, por lo que no puedo compartir su código. Mi colaboración incluye:
+
+- **Portal web en monorepo** con SvelteKit (Svelte 5), TypeScript, Prisma, Turborepo y Auth0.
+- **Módulo de seguimiento de operaciones** con revisión, permisos por rol (RBAC), bitácora de auditoría y minutas.
+- **Migración de sistemas heredados** de Laravel y PHP a SvelteKit, incluido un portal de proveedores.
+- Revisión de código por pares en pull requests y liderazgo de un equipo de desarrollo.
 
 ## Formación y certificaciones
 
