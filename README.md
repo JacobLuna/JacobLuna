@@ -11,6 +11,8 @@
   <a href="mailto:jale.2126@gmail.com">jale.2126@gmail.com</a>
 </p>
 
+> 🇬🇧 **In short:** Full-Stack Developer and development team lead at a customs brokerage in Mexico. I build and migrate internal systems to modern stacks (SvelteKit, TypeScript, Prisma), with a focus on databases and process automation. Master's in IT Management and Governance (UNIR, with honors, 2026) and ISO 9001:2015 Internal Auditor.
+
 ---
 
 ## Sobre mí
@@ -22,11 +24,12 @@
 
 ## Tecnologías
 
-<p>
-  <img src="https://skillicons.dev/icons?i=svelte,ts,js,nextjs,laravel,php,java,mysql,postgres,prisma,vite,docker,git,github&perline=14" alt="Tecnologías" />
-</p>
-
-**También:** SQL Server (avanzado) · Auth0 · Turborepo · pnpm
+| Área | Herramientas |
+|---|---|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=svelte,ts,js,nextjs,vite" alt="Svelte, TypeScript, JavaScript, Next.js, Vite" align="absmiddle" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=laravel,php,java" alt="Laravel, PHP, Java" align="absmiddle" /> |
+| **Datos** | <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" alt="MySQL, PostgreSQL, Prisma" align="absmiddle" /> · SQL Server (avanzado) |
+| **Herramientas** | <img src="https://skillicons.dev/icons?i=docker,git,github" alt="Docker, Git, GitHub" align="absmiddle" /> · Auth0 · Turborepo · pnpm |
 
 ## Proyectos
 
@@ -53,3 +56,5 @@ Trabajo diariamente en repositorios privados de una empresa del sector aduanal, 
 ## Conectemos
 
 Si quieres hablar de desarrollo de software, automatización o transformación digital, escríbeme por [LinkedIn](https://www.linkedin.com/in/jacob-alejandro-luna-dev/).
+
+*If you'd like to talk about software development, automation or digital transformation, reach out on [LinkedIn](https://www.linkedin.com/in/jacob-alejandro-luna-dev/).*
