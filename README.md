@@ -11,7 +11,7 @@
   <a href="mailto:jale.2126@gmail.com">jale.2126@gmail.com</a>
 </p>
 
-> 🇬🇧 **In short:** Full-Stack Developer and development team lead at a customs brokerage in Mexico. I build and migrate internal systems to modern stacks (SvelteKit, TypeScript, Prisma), with a focus on databases and process automation. Master's in IT Management and Governance (UNIR, with honors, 2026) and ISO 9001:2015 Internal Auditor.
+> **In short:** Full-Stack Developer and development team lead at a customs brokerage in Mexico. I build and migrate internal systems to modern stacks (SvelteKit, TypeScript, Prisma), with a focus on databases and process automation. Master's in IT Management and Governance (UNIR, with honors, 2026) and ISO 9001:2015 Internal Auditor.
 
 ---
 
@@ -26,10 +26,10 @@
 
 | Área | Herramientas |
 |---|---|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=svelte,ts,js,nextjs,vite" alt="Svelte, TypeScript, JavaScript, Next.js, Vite" align="absmiddle" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=laravel,php,java" alt="Laravel, PHP, Java" align="absmiddle" /> |
-| **Datos** | <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" alt="MySQL, PostgreSQL, Prisma" align="absmiddle" /> · SQL Server (avanzado) |
-| **Herramientas** | <img src="https://skillicons.dev/icons?i=docker,git,github" alt="Docker, Git, GitHub" align="absmiddle" /> · Auth0 · Turborepo · pnpm |
+| **Frontend** | ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-avanzado-CC2927?style=flat-square) |
+| **Herramientas** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white) ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white) |
 
 ## Proyectos
 
