@@ -32,7 +32,7 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**gestor-tareas**](https://github.com/JacobLuna/gestor-tareas) | App de tareas con prioridades, form actions con mejora progresiva y pruebas de validación. | SvelteKit, TypeScript, Prisma, SQLite |
+| [**gestor-tareas**](https://github.com/JacobLuna/gestor-tareas) | App familiar de tareas: tablero Kanban, acceso por PIN con roles, fotos de perfil, tareas recurrentes y agenda semanal. Pruebas automatizadas y CI en cada push. | SvelteKit, TypeScript, Prisma, SQLite, Docker, GitHub Actions |
 
 ### 🔒 Colaboración en proyectos privados
 
