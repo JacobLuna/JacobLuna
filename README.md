@@ -24,10 +24,7 @@
 
 ## Tecnologías
 
-<p>
-  <img src="https://skillicons.dev/icons?i=svelte,ts,js,nextjs,vite,laravel,php,java,mysql&perline=9" alt="Svelte, TypeScript, JavaScript, Next.js, Vite, Laravel, PHP, Java, MySQL" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,docker,git,github,pnpm&perline=6" alt="PostgreSQL, Prisma, Docker, Git, GitHub, pnpm" /><img src="assets/tech-extra.svg" height="48" alt="SQL Server, Auth0, Turborepo" />
-</p>
+<img src="assets/tecnologias.svg" width="792" alt="Svelte, TypeScript, JavaScript, Next.js, Vite, Laravel, PHP, Java, MySQL, PostgreSQL, Prisma, SQL Server, Docker, Git, GitHub, pnpm, Auth0, Turborepo" />
 
 ## Proyectos
 
