@@ -19,7 +19,7 @@
 
 - 💼 Analista Desarrollador en una agencia aduanal, donde lidero un equipo de desarrollo.
 - 🎓 Maestro en Dirección y Gestión de Tecnologías de la Información por UNIR, con Mención Honorífica (2026).
-- 🏗️ Construyo y migro sistemas internos hacia tecnologías modernas, con foco en bases de datos y automatización de procesos.
+- 🏗️ Construyo y migro sistemas internos hacia tecnologías modernas, con foco en bases de datos (SQL Server avanzado) y automatización de procesos.
 - ✅ Auditor Interno ISO 9001:2015.
 
 ## Tecnologías
@@ -28,8 +28,6 @@
   <img src="https://skillicons.dev/icons?i=svelte,ts,js,nextjs,vite,laravel,php,java,mysql&perline=9" alt="Svelte, TypeScript, JavaScript, Next.js, Vite, Laravel, PHP, Java, MySQL" /><br>
   <img src="https://skillicons.dev/icons?i=postgres,prisma,docker,git,github,pnpm&perline=6" alt="PostgreSQL, Prisma, Docker, Git, GitHub, pnpm" /><img src="assets/tech-extra.svg" height="48" alt="SQL Server, Auth0, Turborepo" />
 </p>
-
-<sub>Últimos tres íconos: SQL Server (avanzado) · Auth0 · Turborepo</sub>
 
 ## Proyectos
 
